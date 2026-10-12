@@ -1,0 +1,133 @@
+# Easy-RSA Inline file
+# Certificate type: server
+# commonName: FAST University
+# SHA256 fingerprint:
+# FA:27:D5:C9:BF:0B:5A:68:35:A2:29:02:DE:99:44:F5:3F:2A:4B:7F:DC:73:4E:87:EB:BF:B6:32:6E:D7:F5:92
+# Decimal serial number: 201981617393633882015642269646465285558
+
+<cert>
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            97:f4:3e:98:8f:f5:57:fa:56:7d:f4:a0:82:b0:3d:b6
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=CyberShield Global Root Authority
+        Validity
+            Not Before: Oct 12 07:37:51 2026 GMT
+            Not After : Jan 14 07:37:51 2029 GMT
+        Subject: CN=FAST University
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:bd:75:9e:0a:43:5b:aa:03:52:59:6d:57:5f:a2:
+                    51:1d:02:37:61:63:f6:72:7c:6a:19:58:a1:49:4d:
+                    b8:1c:2e:e1:0c:30:69:6f:4d:e5:03:44:b2:df:ec:
+                    5e:bb:dc:66:aa:1c:18:99:8e:52:ae:d0:23:22:e6:
+                    06:45:d6:09:4b:0e:5d:e8:d5:ee:36:6f:02:e0:ee:
+                    4e:0f:7d:aa:30:ea:5f:d2:bf:b4:40:d7:bf:d7:85:
+                    ea:cc:49:3e:8c:51:0b:c3:a9:70:fa:55:55:b5:43:
+                    f6:e2:25:2b:c2:87:cf:a1:a8:a8:5c:3d:e2:03:6f:
+                    79:c8:d8:1f:3c:ed:ef:d5:05:85:9f:d0:66:c2:0d:
+                    36:38:f9:2a:5b:37:af:f5:75:14:c8:22:35:84:a0:
+                    15:2e:04:02:da:57:fd:36:6d:cb:33:49:42:fe:3b:
+                    4b:41:f1:8c:fc:14:06:aa:fd:bb:ae:75:77:02:95:
+                    b9:9c:1c:a2:6c:b4:82:36:8a:28:c4:14:34:fb:69:
+                    f9:ad:6e:31:13:7f:8e:ab:8d:f8:f2:01:cc:17:60:
+                    ff:58:55:6c:8d:ca:d7:0e:a3:e7:b2:e4:24:05:e5:
+                    24:8e:54:de:e6:3a:f2:72:99:36:5b:4e:ab:e1:62:
+                    39:a2:2e:c2:0e:89:95:e3:94:bf:e2:dd:f4:85:c1:
+                    63:9d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                8C:E0:A4:8C:A6:3B:3D:3A:B4:F0:7D:2A:39:AC:0E:8E:6B:67:42:4E
+            X509v3 Authority Key Identifier: 
+                keyid:4F:0C:50:5F:0D:F3:2B:21:76:E1:FE:11:6D:CC:E4:D0:53:F0:DD:10
+                DirName:/CN=CyberShield Global Root Authority
+                serial:0E:4C:81:AB:F3:5B:45:CD:BC:89:CB:38:C5:F2:1A:70:6E:26:76:42
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        26:d9:bf:f4:97:ff:0a:e7:0e:14:f2:ae:85:69:31:f7:ad:f4:
+        85:14:8b:0a:23:2b:35:39:f5:78:74:4e:ee:a8:50:d3:07:42:
+        83:9a:9b:50:65:21:15:05:d6:5c:ea:68:dc:e7:7e:b3:b6:9f:
+        b6:64:5d:8a:00:0e:aa:d4:4b:ae:f9:88:c0:b8:cd:8d:02:0b:
+        06:d5:af:f4:da:01:34:c3:c9:f1:e1:81:dc:1d:cd:f6:65:db:
+        62:b2:fa:2a:a6:80:99:10:0f:65:1c:f9:ca:cf:14:3f:0c:5d:
+        1b:d1:0b:57:14:95:05:b6:c1:81:b5:98:83:04:f4:c5:3d:47:
+        77:d4:f1:6d:a6:c2:17:58:ca:00:79:f0:f2:dd:a4:41:00:90:
+        49:04:99:a4:ab:c2:22:41:93:f4:b0:fa:9b:1b:3e:98:a4:f2:
+        94:5a:af:ff:4d:5a:b8:b0:8e:7c:87:e7:16:3d:ec:85:d8:40:
+        56:01:85:82:26:7e:79:16:b9:ad:08:4a:d6:f5:a5:ac:0f:d0:
+        87:1e:de:21:dc:fc:3e:d6:1a:be:e6:f8:22:fb:48:32:af:6e:
+        a9:48:73:58:fb:41:4e:ea:5e:9e:4b:74:c4:7a:d1:b1:a7:d2:
+        d4:47:f0:62:5b:58:17:56:c4:52:af:bb:b1:b2:dc:06:d2:90:
+        75:29:15:e3
+-----BEGIN CERTIFICATE-----
+MIIDijCCAnKgAwIBAgIRAJf0PpiP9Vf6Vn30oIKwPbYwDQYJKoZIhvcNAQELBQAw
+LDEqMCgGA1UEAwwhQ3liZXJTaGllbGQgR2xvYmFsIFJvb3QgQXV0aG9yaXR5MB4X
+DTI2MTAxMjA3Mzc1MVoXDTI5MDExNDA3Mzc1MVowGjEYMBYGA1UEAwwPRkFTVCBV
+bml2ZXJzaXR5MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvXWeCkNb
+qgNSWW1XX6JRHQI3YWP2cnxqGVihSU24HC7hDDBpb03lA0Sy3+xeu9xmqhwYmY5S
+rtAjIuYGRdYJSw5d6NXuNm8C4O5OD32qMOpf0r+0QNe/14XqzEk+jFELw6lw+lVV
+tUP24iUrwofPoaioXD3iA295yNgfPO3v1QWFn9Bmwg02OPkqWzev9XUUyCI1hKAV
+LgQC2lf9Nm3LM0lC/jtLQfGM/BQGqv27rnV3ApW5nByibLSCNoooxBQ0+2n5rW4x
+E3+Oq4348gHMF2D/WFVsjcrXDqPnsuQkBeUkjlTe5jrycpk2W06r4WI5oi7CDomV
+45S/4t30hcFjnQIDAQABo4G4MIG1MAkGA1UdEwQCMAAwHQYDVR0OBBYEFIzgpIym
+Oz06tPB9KjmsDo5rZ0JOMGcGA1UdIwRgMF6AFE8MUF8N8yshduH+EW3M5NBT8N0Q
+oTCkLjAsMSowKAYDVQQDDCFDeWJlclNoaWVsZCBHbG9iYWwgUm9vdCBBdXRob3Jp
+dHmCFA5MgavzW0XNvInLOMXyGnBuJnZCMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAsG
+A1UdDwQEAwIFoDANBgkqhkiG9w0BAQsFAAOCAQEAJtm/9Jf/CucOFPKuhWkx9630
+hRSLCiMrNTn1eHRO7qhQ0wdCg5qbUGUhFQXWXOpo3Od+s7aftmRdigAOqtRLrvmI
+wLjNjQILBtWv9NoBNMPJ8eGB3B3N9mXbYrL6KqaAmRAPZRz5ys8UPwxdG9ELVxSV
+BbbBgbWYgwT0xT1Hd9TxbabCF1jKAHnw8t2kQQCQSQSZpKvCIkGT9LD6mxs+mKTy
+lFqv/01auLCOfIfnFj3shdhAVgGFgiZ+eRa5rQhK1vWlrA/Qhx7eIdz8PtYavub4
+IvtIMq9uqUhzWPtBTupenkt0xHrRsafS1EfwYltYF1bEUq+7sbLcBtKQdSkV4w==
+-----END CERTIFICATE-----
+</cert>
+
+# When you recieve your key place it in the
+# 'pki/private' sub-dir of your PKI and use command 'inline'
+# to rebuild this inline file with your key.
+# <key>
+# * Paste your private key here *
+# </key>
+
+<ca>
+-----BEGIN CERTIFICATE-----
+MIIDkDCCAnigAwIBAgIUDkyBq/NbRc28ics4xfIacG4mdkIwDQYJKoZIhvcNAQEL
+BQAwLDEqMCgGA1UEAwwhQ3liZXJTaGllbGQgR2xvYmFsIFJvb3QgQXV0aG9yaXR5
+MB4XDTI2MTAxMjA3MjkzN1oXDTM2MTAwOTA3MjkzN1owLDEqMCgGA1UEAwwhQ3li
+ZXJTaGllbGQgR2xvYmFsIFJvb3QgQXV0aG9yaXR5MIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAtKivWG9zidnbzu4JW93gAYamp2abw294pzxuzbQh55Mb
+nEjHmORIOYJHUc4ty+2AUiiMcZKGPLPGa9QTHukG4+OMJ+AtufYrcTeRwERlKCOD
+9EakOpXGMPsibMd2g1Yd6ugLn8gOy0WDg+N1XuLHG7ooGFdW8NZBICOhGz1FxM9j
+MqrNMFR6pwrk3xft2cWc353fMANqkiw6ow7Gdbd80rwJBpeJJdp9Bc+q28bqlo+v
+eRn5WJoOwPKOCNB7riwHy8KO3xRiO9i3SClc9aywaYhQ1e6PTlRdlS2VH0DdgIUy
+rrvSyGc9kFLkvcEMH9j66BhZ0vzX7CdNTwqMa5L+cQIDAQABo4GpMIGmMA8GA1Ud
+EwEB/wQFMAMBAf8wHQYDVR0OBBYEFE8MUF8N8yshduH+EW3M5NBT8N0QMGcGA1Ud
+IwRgMF6AFE8MUF8N8yshduH+EW3M5NBT8N0QoTCkLjAsMSowKAYDVQQDDCFDeWJl
+clNoaWVsZCBHbG9iYWwgUm9vdCBBdXRob3JpdHmCFA5MgavzW0XNvInLOMXyGnBu
+JnZCMAsGA1UdDwQEAwIBBjANBgkqhkiG9w0BAQsFAAOCAQEAKpyGLUjc7KTkZQRQ
+YDhjRgfPDdgiV8Kz56CK0mdp/GjtbYi4PXCFOmrP/pBbD7Wn4pVwTD3EDV8bJd12
+dbZms2yBCsK5OtR31hpxOx3ivcsTwucDPR/rQSrYFzZBVbt1TVjopVXbHpb2yI8F
+rw7ydsspNKVbdSAig2YuScYYkfcu48/3PjxHqD1wcRs5bmmnW64Rwmn5lWSgj38t
+cYgObJSz/vWuBfs/9cExAOB0v4W2pIRrw88/0al/pbzg/PIHWk6D0PsPkOogtGFA
+lFMPh9cZfzeVh0gc8IvDszEUNYIMMHjfWpuJHNS6t4q0w0SZsbR31/cYEB73Yai3
+LYtSHg==
+-----END CERTIFICATE-----
+</ca>
+
+# <dh>
+# * Paste your Diffie-Hellman parameters file here *
+# </dh>
+
+# Easy-RSA TLS Key not found!
+
